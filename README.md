@@ -1,4 +1,4 @@
-# CardPrint Pro
+# ScanID
 
 CardPrint Pro is a lightweight, fully offline Android application designed to simplify the process of printing identity cards such as Aadhaar, PAN, Driving License, Voter ID, Passport, and other document photos.
 
